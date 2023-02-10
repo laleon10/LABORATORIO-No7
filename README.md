@@ -16,6 +16,17 @@ Desarrollo experimental de curvas de carga y descarga de capacitores e inductore
 
 • Familiarícese con el uso y funcionamiento del instrumento a través del simulador.
 
+# MARCO TEÓRICO
+Qué es un inductor?
+
+Es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
+
+Qué es un capacitor?
+
+También conocido como condensador es un dispositivo capaz de almacenar energía a través de campos eléctricos (uno positivo y uno negativo). Este se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
+
+
+
 # PROCEDIMIENTO:
 
 Para empezar a realizar los circuito en DCACLab debemos extraer de la barra de componentes lo que necesitemos que en este caso es:
@@ -93,7 +104,9 @@ se refiere al voltaje de corriente directa que produce la misma cantidad de calo
 
 # CONCLUSIONES:
 
--Estudiamos tambien el concepto de los capacitores y de las bobinas para asi obtener una mejor comprension de estos y porque ayudan a la interpretacion de un circuito y manejar cuidadosamente los valores de voltaje y corriente
+La presencia de condensadores y bobinas en un circuito de corriente alterna desfasa la intensidad de corriente respecto a la fem, además de suponer una variación de la resistencia efectiva del circuito, dependiente de la frecuencia de la corriente.
+
+Estudiamos tambien el concepto de los capacitores y de las bobinas para asi obtener una mejor comprension de estos y porque ayudan a la interpretacion de un circuito y manejar cuidadosamente los valores de voltaje y corriente
 
 # BIBLIOGRAFÍA:
 
